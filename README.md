@@ -1,6 +1,6 @@
 # MasterThesis
 
-## iContinuum Implimentation Repo
+## iContinuum Implementation Repo
 
 <https://github.com/mariniou77/iContinuumExample2/tree/dev>
 
