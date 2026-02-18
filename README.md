@@ -2,11 +2,11 @@
 
 ## iContinuum Implementation Repo
 
-<https://github.com/mariniou77/iContinuumExample2/tree/dev>
+<https://github.com/mariniou77/iContinuumExample2>
 
 ## IntentContinuum (Opensource LLM) Implementation repo
 
-<https://github.com/mariniou77/OpenLLMIntentContinuum/tree/dev>
+<https://github.com/mariniou77/OpenLLMIntentContinuum>
 
 ## Privatissimum (First) Presentation (Slides)
 
